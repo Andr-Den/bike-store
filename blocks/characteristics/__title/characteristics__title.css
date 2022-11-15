@@ -7,4 +7,10 @@
   line-height: 150%;
   color: #0C0C0C;
   margin-left: 60px;
+  margin-right: 60px;
+  border-top: 1px solid #D9D9D9;
+}
+
+.characteristics__title_without-border {
+  border: none;
 }
