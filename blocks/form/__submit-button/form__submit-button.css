@@ -1,0 +1,19 @@
+.form__submit-button {
+  background: #3922C5;
+  border-radius: 16px;
+  padding: 16px 24px;
+  border: none;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #FFFFFF;
+}
+
+.form__submit-button:hover {
+  background: #2C1A9A;
+}
+
+.form__submit-button:active {
+  background: #1F1368;
+}

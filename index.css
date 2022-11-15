@@ -10,3 +10,7 @@
 @import url(./blocks//characteristics/characteristics.css);
 @import url(./blocks/characteristics/__title/characteristics__title.css);
 @import url(./blocks/characteristics/__list/characteristics__list.css);
+
+@import url(./blocks/form/form.css);
+@import url(./blocks/form/__input/form__input.css);
+@import url(./blocks/form/__submit-button/form__submit-button.css);
