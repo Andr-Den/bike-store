@@ -1,0 +1,8 @@
+.navigation__list_active {
+  color: #3922C5;
+  background: #FFFFFF;
+}
+
+.navigation__list_active:hover {
+  cursor: default;
+}
