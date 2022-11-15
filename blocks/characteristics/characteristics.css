@@ -1,7 +1,7 @@
 .characteristics {
+  width: 100%;
+  max-width: 726px;
   margin-left: 60px;
   margin-right: 60px;
   border-top: 1px solid #D9D9D9;
-  width: 100%;
-  max-width: 726px;
 }

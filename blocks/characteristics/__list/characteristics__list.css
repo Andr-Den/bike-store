@@ -5,10 +5,12 @@
   list-style: decimal;
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
   gap: 16px;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
   color: #494949;
+  height: 64px;
 }
