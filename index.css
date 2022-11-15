@@ -6,3 +6,7 @@
 @import url(./blocks/product/__title/product__title.css);
 @import url(./blocks/product/__description/product__description.css);
 @import url(./blocks/product/__image/product__image.css);
+
+@import url(./blocks//characteristics/characteristics.css);
+@import url(./blocks/characteristics/__title/characteristics__title.css);
+@import url(./blocks/characteristics/__list/characteristics__list.css);

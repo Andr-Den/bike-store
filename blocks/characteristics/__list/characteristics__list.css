@@ -1,0 +1,13 @@
+.characteristics__list {
+  margin: 0;
+  padding: 20px;
+  list-style: decimal;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #494949;
+}
