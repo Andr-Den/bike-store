@@ -1,8 +1,14 @@
 .product__description {
+  margin: 0;
+  margin-top: 16px;
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
   color: #494949;
+}
+
+.product__description:first-of-type {
+  margin-top: 20px;
 }
