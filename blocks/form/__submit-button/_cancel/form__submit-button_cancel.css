@@ -1,0 +1,14 @@
+.form__submit-button_cancel {
+  background: #FFFFFF;
+  color: #0C0C0C;
+}
+
+.form__submit-button_cancel:hover {
+  color: #2C1A9A;
+  background: #FFFFFF;
+}
+
+.form__submit-button_cancel:active {
+  background: #FFFFFF;
+  color: #1F1368;
+}
