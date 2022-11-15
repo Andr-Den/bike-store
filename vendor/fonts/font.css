@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Montserrat";
+  font-style:  normal;
+  font-weight: 900;
+  font-display: swap;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  src: url(./Montserrat-Bold.woff2) format("woff2"),
+       url(./Montserrat-Bold.woff) format("woff"),
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-style:  normal;
+  font-weight: 500;
+  font-display: swap;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  src: url(./Montserrat-Medium.woff2) format("woff2"),
+       url(./Montserrat-Medium.woff) format("woff"),
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  src: url(./Montserrat-Regular.woff2) format("woff2"),
+       url(./Montserrat-Regular.woff) format("woff"),
+}
