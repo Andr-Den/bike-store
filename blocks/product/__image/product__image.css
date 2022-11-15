@@ -1,0 +1,8 @@
+.product__image {
+  background-image: url(../../../images/image1.png);
+  width: 320px;
+  height: 232px;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
