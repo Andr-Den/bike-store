@@ -1,0 +1,9 @@
+.navigation__title {
+  margin: 0;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 150%;
+  padding: 20px 24px;
+  text-align: center;
+}
