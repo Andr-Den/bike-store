@@ -20,9 +20,8 @@
           <div class="product">
             <div class="product__image" id="product-image"></div>
             <div class="product__container">
-              <h1 class="product__title" id="product-title">Велосипед STELS Navigator 510 HD 26 2022</h1>
-              <p class="product__description" id="product-description">Данный велосипед с колесами 26 дюймов хорошо подходит высоким подросткам. Прогиб рамы и небольшой размер рамы расчитан на рост от 135 до 165 см.</p>
-              <!-- <p class="product__description">Суммарный вес велосипеда был снижен до 16,9 кг, так как рама была изготовлена с учетом использования велосипеда подростками.</p> -->
+              <h1 class="product__title" id="product-title"></h1>
+              <p class="product__description" id="product-description"></p>
             </div>
           </div>
           <div class="characteristics">
@@ -37,8 +36,8 @@
           <div class="forms">
             <h2 class="characteristics__title characteristics__title_without-border">Добавить характеристику</h2>
             <form class="form">
-              <input type="text" class="form__input" />
-              <input type="submit" class="form__submit-button" value="Добавить"/>
+              <input type="text" class="form__input" minlength="2" maxlength="30" id="form-input" required/>
+              <input type="submit" class="form__submit-button form__submit-button_no-active" value="Добавить"  id="submit-button"/>
             </form>
             <div class="confirm">
               <div class="confirm__container">
@@ -50,5 +49,6 @@
       </main>
     </div>
     <script src="./scripts/navigation.js"></script>
+    <script src="./scripts/validation.js"></script>
   </body>
 </html>
