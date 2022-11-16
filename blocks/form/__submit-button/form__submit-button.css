@@ -12,6 +12,7 @@
 
 .form__submit-button:hover {
   background: #2C1A9A;
+  cursor: pointer;
 }
 
 .form__submit-button:active {
